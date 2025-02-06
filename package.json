@@ -17,7 +17,7 @@
     "url": "git+your-repo-url.git"
   },
   "bugs": {               
-    "url": ""
+    "url": "https://github.com/askpravin/marathi-number-formatter"
   },
   "homepage": "https://github.com/askpravin/marathi-number-formatter"
 }
