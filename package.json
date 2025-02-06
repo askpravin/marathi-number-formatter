@@ -1,0 +1,23 @@
+{
+  "name": "marathi-number-formatter", 
+  "version": "1.0.0",
+  "description": "A simple npm package to format numbers into Marathi words.",
+  "main": "index.js",
+  "keywords": [
+    "marathi",
+    "number",
+    "formatter",
+    "localization",
+    "i18n"
+  ],
+  "author": "Pravin Jadhav", 
+  "license": "MIT",      
+  "repository": {         
+    "type": "git",
+    "url": "git+your-repo-url.git"
+  },
+  "bugs": {               
+    "url": ""
+  },
+  "homepage": ""
+}
